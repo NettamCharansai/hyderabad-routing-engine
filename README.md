@@ -206,7 +206,7 @@ Flutter renders route on map with distance and ETA.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/hyderabad-routing-engine.git
+git clone https://github.com/NettamCharansai/hyderabad-routing-engine.git
 cd hyderabad-routing-engine
 ```
 
